@@ -2,7 +2,7 @@
 
 ## Otabil Emmanuel
 
-![Otabil](Documents/image.jpg)
+![Otabil](https://www.datamavens.io/web/image/res.users/30/image_128?unique=1a2305e)
 
 _| Eyes on the screen | Hands on the keys | Heart in the community |_
 
