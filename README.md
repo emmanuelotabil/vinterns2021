@@ -6,7 +6,7 @@
 
 _| Eyes on the screen | Hands on the keys | Heart in the community |_
 
-**_Otabil Emmanuel_** is an Optimistic, enthusiastic and self-motivated young man with unending passion for technology and community service. I am an Electrical/Electronics Engineering student if Kwame Nkrumah University of Science and Technology. 
+**_Otabil Emmanuel_** is an Optimistic, enthusiastic and self-motivated young man with unending passion for technology and community service. I am an Electrical/Electronics Engineering student of Kwame Nkrumah University of Science and Technology. 
 
 Currently, I am interning with Data Mavens Ltd 😉.
 
@@ -16,9 +16,9 @@ Currently, I am interning with Data Mavens Ltd 😉.
 
 * Cyber Security
 
-* Cloud Computing 
+* Cloud Computing (AWS, Azure)
 
-* Web Development
+* Web Development (HTML/CSS)
 
 * Mathematics & Problem Solving
 
