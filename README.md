@@ -18,7 +18,8 @@ Currently, I am interning with Data Mavens Ltd 😉.
 
 * Mathematics & Problem Solving
 
-Quote: The only 'Right' angle in life is the 'try' angle 🔺
+Quote: 
+> The only 'Right' angle in life is the 'try' angle 🔺
 
 Feel free to connect with me:  LinkedIn  or  WhatsApp
 
