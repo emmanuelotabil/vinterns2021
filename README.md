@@ -23,5 +23,5 @@ Currently, I am interning with Data Mavens Ltd 😉.
 Quote: 
 > The only 'Right' angle in life is the 'try' angle 🔺
 
-Feel free to connect with me:  [LinkedIn](https://www.linkedin.com/in/emmanuelotabil)  or  WhatsApp
+Feel free to connect with me:  [LinkedIn](https://www.linkedin.com/in/emmanuelotabil)  or  [WhatsApp](wa.me/+233275444079)
 
