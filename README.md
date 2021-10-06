@@ -8,9 +8,9 @@ Currently, I am interning with Data Mavens Ltd 😉.
 
 **SKILLS and INTERESTS**
 
-Python Programming
+* Item Python Programming
 
-Cyber Security
+* Item Cyber Security
 
 Cloud Computing 
 
