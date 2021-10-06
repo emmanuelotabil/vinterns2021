@@ -8,16 +8,17 @@ Currently, I am interning with Data Mavens Ltd 😉.
 
 **SKILLS and INTERESTS**
 
-* Item Python Programming
+* Python Programming
 
-* Item Cyber Security
+* Cyber Security
 
-Cloud Computing 
+* Cloud Computing 
 
-Web Development
+* Web Development
 
-Mathematics & Problem Solving
+* Mathematics & Problem Solving
 
 Quote: The only 'Right' angle in life is the 'try' angle 🔺
+
 Feel free to connect with me:  LinkedIn  or  WhatsApp
 
